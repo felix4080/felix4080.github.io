@@ -1,0 +1,68 @@
+.class1 {
+font-family: Trebuchet MS;
+font-size: 25px;
+color: white;
+font-weight: bold;
+text-align: center;
+}
+.class2 {
+font-family: Trebuchet MS;
+font-size: 80px;
+color: white;
+font-weight: bold;
+text-align: center;
+}
+.class3 {
+font-family: Trebuchet MS;
+font-size: 20px;
+color: white;
+font-weight: bold;
+text-align: center;
+}
+.class4 {
+	border-width: 5px;
+	border-style: solid;  
+	border-color: white;
+        border-radius: 10px;
+	width: 570px;
+	height: 45px;
+        font-family: Trebuchet MS;
+        font-size: 40px;
+        color: white;
+        font-weight: bold;
+        margin: 0 auto;
+        text-align: center;
+}
+.class5 {
+font-family: Trebuchet MS;
+font-size: 30px;
+color: white;
+font-weight: bold;
+text-align: center;
+}
+}
+
+a {
+	text-decoration: none;
+        color: white;
+}
+a:link{
+  color:white;
+text-decoration: none;
+}
+a:visited{
+  color:white;
+text-decoration: none;
+}
+a:hover{
+  color:gray;
+text-decoration: none;
+}
+a:focus{
+  color:white;
+text-decoration: none;
+}
+a:active{
+  color:white;
+text-decoration: none;
+}
